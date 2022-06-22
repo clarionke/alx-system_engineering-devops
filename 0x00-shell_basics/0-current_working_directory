@@ -1,6 +1,4 @@
-#! /bin/bash
-#path='readlink -f "${BASH_SOURCE:-$0"'
+#!/bin/bash
 
-#DIR_PATH='dirname $path'
 echo $0
 
