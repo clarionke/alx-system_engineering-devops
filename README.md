@@ -1,8 +1,7 @@
 # alx-system_engineering-devops
 
-!["ALX Logo"](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
+<img style="width: 500px;height:300px;" src="https://aceworldpub.com.ng/wp-content/uploads/2022/03/unnamed.png">
 
-![](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
 
 ## What is DEVOPS?
 
