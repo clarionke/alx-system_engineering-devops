@@ -2,8 +2,7 @@
 
 !["ALX Logo"](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
 
-
-![](https://cdn2.hubspot.net/hubfs/2151760/img-information-technology-1.png)
+![](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
 
 ## What is DEVOPS?
 
